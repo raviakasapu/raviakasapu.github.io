@@ -1,3 +1,11 @@
+---
+layout: post
+title: What AI / ML Can offer in managing Operational Data and Delivering Business Insights
+tags: [AI, ML, Operational Data Management, Business Value]
+comments: true
+category: blog
+---
+
 
 * [Introduction](#introduction)
 * [What is Operational Data](#what-is-operational-data)
