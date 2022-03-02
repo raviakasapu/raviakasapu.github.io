@@ -5,7 +5,6 @@ author: "ravi akasapu (raviakasapu@gmail.com)"
 date: "March 02, 2022"
 
 ---
-<h1> What AI/ML can offer in managing Operational Data and delivering Business Insights </h1>
 
 * [Introduction](#introduction)
 * [What is Operational Data](#what-is-operational-data)
