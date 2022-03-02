@@ -1,13 +1,13 @@
 
-* Introduction
-* What is Operational Data
-* What business value is generated through Operational Data
-* How Organizations are managing Operational data currently
-* What are the challenges faced by organizations in managing Operational Data
-* How AI/ML can benefit in managing operational data
-* What are the tools available for organizations in managing Operational Data
-* Future Direction
-* Conclusion
+* [Introduction](#introduction)
+* [What is Operational Data](#what-is-operational-data)
+* [What business value is generated through Operational Data](#what-business-value-is-generated-through-operational-data)
+* [How Organizations are managing Operational data currently](#how-organizations-are-managing-operational-data-currently)
+* [What are the challenges faced by organizations in managing Operational Data](#what-are-the-challenges-faced-by-organizations-in-managing-operational-data)
+* [How AI/ML can benefit in managing operational data]
+* [What are the tools available for organizations in managing Operational Data]
+* [Future Direction]
+* [Conclusion]
 
 
 ## Introduction
