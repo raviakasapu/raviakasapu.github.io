@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What-AI/ML-can-offer-in-managing-Operational-data-and-delivering-business-insights"
+title: "What AI/ML can offer in managing Operational data and delivering business insights"
 author: "ravi akasapu (raviakasapu@gmail.com)"
 date: "March 02, 2022"
 
