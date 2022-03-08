@@ -41,8 +41,6 @@ As most of the data is collected using different methods, sometimes using comple
 
 There are additional challenges like Version control, Inconsistencies, Access Control, Security, redundancy, regulatory requirements which will affect the organizational data strategy. Each of these challenges need additional efforts, sometimes manual efforts to tackle and  will lead to over or under utilization of resources and technology.
 
-Using AI/ML will also help in automating complex data tasks, automated data delivery to various Dashboards, reduce architecture complexity and help organizations moving towards Augmented Data Management.
-
 ## How AI/ML can benefit in managing operational data and tools available
 
 ## Future Direction
