@@ -43,6 +43,14 @@ There are additional challenges like Version control, Inconsistencies, Access Co
 
 ## How AI/ML can benefit in managing operational data and tools available
 
+There are multiple use cases for AI/ML to use in operations. Using AI/ML will help in automating complex data tasks, automated data delivery to various Dashboards, reduce architecture complexity and help organizations moving towards Augmented Data Management. 
+
+Various AI/ML techniques are available in managing Database systems. This will improve organizing database queries, improve query accuracy and manage database infrastructure in a better way. This will improve the total operational efficiency and delivery of data to the end applications.
+
+Other data cleaning and validation models like word embdeddings, entity detection, tracing, Labelled data and regression models can be applied on the text and unstructured data. 
+
+Using Deep Learning and other AI techniques can be applied on semi structured data for data cleaning, validation and also merging with other structured data. This will enhance the overall reporting and analytics.
+
 ## Future Direction
 
 Although there might be a need to include AI/ML in every business aspect, it has to be based on individual use case and to achieve defined outcomes. As more and more tools are developed in this space to address various issues there is also need to increase the awareness in utilizing AI/ML tools for Operational Data Management, especially when problems are not clearly defined. Using AI/ML without identifying the what is being achieved will result in negative results and re-work. That being said, there is more potential in addressing the issues on how organizations use data for day-to-day operations and AI/ML is best positioned to address those challenges of today and Future. 
