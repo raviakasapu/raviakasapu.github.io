@@ -1,6 +1,6 @@
 [Welcome to *Ravi Akasapu's* GitHub Pages](https://raviakasapu.github.io)
 
-## [Data Platform Architecture & Strategy considerations for Business Analytics & Reporting](https://raviakasapu.github.io/2024/08/18/2024-08-18-Data-Platform-Architecture-&-Strategy-considerations-for-Business-Analytics-&-Reporting.md)
+## [Data Platform Architecture & Strategy considerations for Business Analytics & Reporting](https://raviakasapu.github.io/2024/08/18/Data-Platform-Architecture-&-Strategy-considerations-for-Business-Analytics-&-Reporting.html)
 [check the file here](files/Data_strategy_for_analytics.pdf)
 
 
