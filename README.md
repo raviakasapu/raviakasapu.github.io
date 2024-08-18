@@ -1,6 +1,9 @@
 [Welcome to *Ravi Akasapu's* GitHub Pages](https://raviakasapu.github.io)
 
 ## [Data Platform Architecture & Strategy considerations for Business Analytics & Reporting](https://raviakasapu.github.io/2024/08/18/Data-Platform-Architecture-&-Strategy-considerations-for-Business-Analytics-&-Reporting.html)
+The Analytics and data strategy in an enterprise depend on many factors. Almost all the times the decision to adopt a particular strategy depend on many factors both internal and external to the organization.
+check the presentation for more details.
+
 [check the file here](files/Data_strategy_for_analytics.pdf)
 
 
