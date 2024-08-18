@@ -6,7 +6,4 @@ date: "August 18, 2024"
 
 ---
 
-<!-- For styles with static names... -->
-<link href="{{ 'assets/css/style.css' | relative_url }}" rel="stylesheet">
-<!-- For documents/pages whose URLs can change... -->
-[{{ page.title }}]("{{ page.url | relative_url }}")
+<embed src="https://ravviakasapu.github.io/files/Data_strategy_for_analytics.pdf" type="application/pdf"/>
